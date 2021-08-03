@@ -217,7 +217,7 @@ export const managers = [
     "valuePosition": "RB", // Favorite position (QB, WR, RB, TE, etc.)
     "rookieOrVets": "Vets", // 'Rookies' or 'Vets'
     "philosophy": "Man fragt sich immer: Woran hat et jelejen?",
-    "tradingScale": 7, // 1 - 10
+    "tradingScale": 8, // 1 - 10
     "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
   },
   {
