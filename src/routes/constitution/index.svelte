@@ -109,7 +109,7 @@
     <h2 class="sectionHeading" bind:this={one}>Downloads</h2>
     
     <ul>
-        <li><a href="/constitutions/20210803.pdf">Stand 03. August 2021</a></li>
+        <li><a target="_blank" href="/constitutions/20210803.pdf">Stand 03. August 2021</a></li>
     </ul>
 
 </div>
