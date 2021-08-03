@@ -216,7 +216,7 @@ export const managers = [
     "favoritePlayer": 96, // this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
     "valuePosition": "QB", // Favorite position (QB, WR, RB, TE, etc.)
     "rookieOrVets": "Vets", // 'Rookies' or 'Vets'
-    "philosophy": "Your fantasy team's philosophy",
+    "philosophy": "Man fragt sich immer: Woran hat et jelejen?",
     "tradingScale": 10, // 1 - 10
     "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
   },
