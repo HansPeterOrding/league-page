@@ -12,7 +12,7 @@ export const managers = [
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
     "rival": {
       name: "Rival", // Can be anything (usually your rival's name)
-      link: 7, // manager array number within this array, or null to link back to all managers page
+      link: 6, // manager array number within this array, or null to link back to all managers page
       image: "/managers/everyone.png", // either a specific manager photo or 'everyone' or 'question'
     },
     "favoritePlayer": 223, // this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
@@ -210,7 +210,7 @@ export const managers = [
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
     "rival": {
       name: "Rival", // Can be anything (usually your rival's name)
-      link: 9, // manager array number within this array, or null to link back to all managers page
+      link: 8, // manager array number within this array, or null to link back to all managers page
       image: "/managers/everyone.png", // either a specific manager photo or 'everyone' or 'question'
     },
     "favoritePlayer": 96, // this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
