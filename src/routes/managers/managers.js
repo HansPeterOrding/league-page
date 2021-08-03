@@ -16,7 +16,7 @@ export const managers = [
       image: "/managers/everyone.png", // either a specific manager photo or 'everyone' or 'question'
     },
     "favoritePlayer": 223, // this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-    "valuePosition": "WR/DB", // Favorite position (QB, WR, RB, TE, etc.)
+    "valuePosition": "WR", // Favorite position (QB, WR, RB, TE, etc.)
     "rookieOrVets": "Vets", // 'Rookies' or 'Vets'
     "philosophy": "Was du nicht willst, das man dir tut, das füge einem andern zu.",
     "tradingScale": 8, // 1 - 10
