@@ -20,7 +20,7 @@ export const managers = [
     "rookieOrVets": "Vets", // 'Rookies' or 'Vets'
     "philosophy": "Was du nicht willst, das man dir tut, das füge einem andern zu.",
     "tradingScale": 8, // 1 - 10
-    "prefferedContact": "DM", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
+    "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
   },
   {
     "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
@@ -218,7 +218,7 @@ export const managers = [
     "rookieOrVets": "Vets", // 'Rookies' or 'Vets'
     "philosophy": "Man fragt sich immer: Woran hat et jelejen?",
     "tradingScale": 7, // 1 - 10
-    "prefferedContact": "DM", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
+    "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
   },
   {
     "roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
