@@ -11,7 +11,7 @@ export const managers = [
     "favoriteTeam": "ari", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
     "rival": {
-      name: "Rival", // Can be anything (usually your rival's name)
+      name: "Mr_Automatic", // Can be anything (usually your rival's name)
       link: 6, // manager array number within this array, or null to link back to all managers page
       image: "/managers/everyone.png", // either a specific manager photo or 'everyone' or 'question'
     },
@@ -209,7 +209,7 @@ export const managers = [
     "favoriteTeam": "gb", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
     "rival": {
-      name: "Rival", // Can be anything (usually your rival's name)
+      name: "LDRams", // Can be anything (usually your rival's name)
       link: 8, // manager array number within this array, or null to link back to all managers page
       image: "/managers/everyone.png", // either a specific manager photo or 'everyone' or 'question'
     },
