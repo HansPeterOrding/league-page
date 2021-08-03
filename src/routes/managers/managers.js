@@ -6,7 +6,7 @@ export const managers = [
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Brooklyn",
     "bio": "Lorem ipsum...",
-    "photo": "/managers/everyone.jpg", // done
+    "photo": "/managers/everyone.png", // done
     "fantasyStart": 2014, // when did the manager start playing fantasy football
     "favoriteTeam": "nyj", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
@@ -28,7 +28,7 @@ export const managers = [
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Brooklyn",
     "bio": "Lorem ipsum...",
-    "photo": "/managers/everyone.jpg", // done
+    "photo": "/managers/everyone.png", // done
     "fantasyStart": 2014, // when did the manager start playing fantasy football
     "favoriteTeam": "nyj", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
@@ -50,7 +50,7 @@ export const managers = [
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Brooklyn",
     "bio": "Lorem ipsum...",
-    "photo": "/managers/everyone.jpg", // done
+    "photo": "/managers/everyone.png", // done
     "fantasyStart": 2014, // when did the manager start playing fantasy football
     "favoriteTeam": "nyj", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
@@ -72,7 +72,7 @@ export const managers = [
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Brooklyn",
     "bio": "Lorem ipsum...",
-    "photo": "/managers/everyone.jpg", // done
+    "photo": "/managers/everyone.png", // done
     "fantasyStart": 2014, // when did the manager start playing fantasy football
     "favoriteTeam": "nyj", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
@@ -94,7 +94,7 @@ export const managers = [
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Brooklyn",
     "bio": "Lorem ipsum...",
-    "photo": "/managers/everyone.jpg", // done
+    "photo": "/managers/everyone.png", // done
     "fantasyStart": 2014, // when did the manager start playing fantasy football
     "favoriteTeam": "nyj", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
@@ -116,7 +116,7 @@ export const managers = [
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Brooklyn",
     "bio": "Lorem ipsum...",
-    "photo": "/managers/everyone.jpg", // done
+    "photo": "/managers/everyone.png", // done
     "fantasyStart": 2014, // when did the manager start playing fantasy football
     "favoriteTeam": "nyj", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
@@ -138,7 +138,7 @@ export const managers = [
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Brooklyn",
     "bio": "Lorem ipsum...",
-    "photo": "/managers/everyone.jpg", // done
+    "photo": "/managers/everyone.png", // done
     "fantasyStart": 2014, // when did the manager start playing fantasy football
     "favoriteTeam": "nyj", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
@@ -160,7 +160,7 @@ export const managers = [
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Brooklyn",
     "bio": "Lorem ipsum...",
-    "photo": "/managers/everyone.jpg", // done
+    "photo": "/managers/everyone.png", // done
     "fantasyStart": 2014, // when did the manager start playing fantasy football
     "favoriteTeam": "gb", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
@@ -182,7 +182,7 @@ export const managers = [
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Brooklyn",
     "bio": "Lorem ipsum...",
-    "photo": "/managers/everyone.jpg", // done
+    "photo": "/managers/everyone.png", // done
     "fantasyStart": 2014, // when did the manager start playing fantasy football
     "favoriteTeam": "nyj", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
@@ -204,7 +204,7 @@ export const managers = [
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Brooklyn",
     "bio": "Lorem ipsum...",
-    "photo": "/managers/everyone.jpg", // done
+    "photo": "/managers/everyone.png", // done
     "fantasyStart": 2014, // when did the manager start playing fantasy football
     "favoriteTeam": "nyj", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
@@ -226,7 +226,7 @@ export const managers = [
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Brooklyn",
     "bio": "Lorem ipsum...",
-    "photo": "/managers/everyone.jpg", // done
+    "photo": "/managers/everyone.png", // done
     "fantasyStart": 2014, // when did the manager start playing fantasy football
     "favoriteTeam": "nyj", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
@@ -248,7 +248,7 @@ export const managers = [
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Brooklyn",
     "bio": "Lorem ipsum...",
-    "photo": "/managers/everyone.jpg", // done
+    "photo": "/managers/everyone.png", // done
     "fantasyStart": 2014, // when did the manager start playing fantasy football
     "favoriteTeam": "nyj", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
