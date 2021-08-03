@@ -102,7 +102,7 @@
 <div class="constitution">
     <h1 class="noUnderscore">12mitC LEAGUE CONSTITUTION</h1>
     
-    <h2 class="noUnderscore">Letzter Stand: 03. August 2021</h2>
+    <h2 class="noUnderscore">Letzter Stand: <a target="_blank" href="/constitutions/20210803.pdf">03. August 2021</a></h2>
     
     <hr />
     
