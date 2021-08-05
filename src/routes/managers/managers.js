@@ -4,6 +4,8 @@ If you're having trouble, reference the Training Wheels' Manager Section
 https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#2-add-managers
 */
 
+// To omit an optional field, set it's value to null
+
 export const managers = [
   {
     "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
