@@ -9,7 +9,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#2-add-man
 export const managers = [
   {
     "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    "name": "Talca",
+    "name": "SchaenisSteelers",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Brooklyn", // (optional)
     "bio": "Lorem ipsum...",
@@ -31,7 +31,7 @@ export const managers = [
   },
   {
     "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    "name": "martinchivers",
+    "name": "kraulo",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Brooklyn", // (optional)
     "bio": "Lorem ipsum...",
@@ -53,7 +53,7 @@ export const managers = [
   },
   {
     "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    "name": "Mr_Automatic",
+    "name": "Cland",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Brooklyn", // (optional)
     "bio": "Lorem ipsum...",
@@ -75,7 +75,7 @@ export const managers = [
   },
   {
     "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    "name": "ynnckolsnkchly",
+    "name": "seabear90",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Brooklyn", // (optional)
     "bio": "Lorem ipsum...",
@@ -97,7 +97,7 @@ export const managers = [
   },
   {
     "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    "name": "JdiMndTrks",
+    "name": "Nakamura79",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Brooklyn", // (optional)
     "bio": "Lorem ipsum...",
@@ -119,7 +119,7 @@ export const managers = [
   },
   {
     "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    "name": "cm1702",
+    "name": "KlotzMS",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Brooklyn", // (optional)
     "bio": "Lorem ipsum...",
@@ -141,7 +141,7 @@ export const managers = [
   },
   {
     "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    "name": "Bermier",
+    "name": "Giskard",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Brooklyn", // (optional)
     "bio": "Lorem ipsum...",
@@ -163,7 +163,7 @@ export const managers = [
   },
   {
     "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    "name": "MamaBearDown",
+    "name": "bruensen",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Brooklyn", // (optional)
     "bio": "Lorem ipsum...",
@@ -185,7 +185,7 @@ export const managers = [
   },
   {
     "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    "name": "DrJ03",
+    "name": "Matzken",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Brooklyn", // (optional)
     "bio": "Lorem ipsum...",
@@ -207,7 +207,7 @@ export const managers = [
   },
   {
     "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    "name": "kugelblitz",
+    "name": "Stege05",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Brooklyn", // (optional)
     "bio": "Lorem ipsum...",
@@ -229,7 +229,7 @@ export const managers = [
   },
   {
     "roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    "name": "RedWoodSons",
+    "name": "Barni2112",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Brooklyn", // (optional)
     "bio": "Lorem ipsum...",
@@ -251,7 +251,7 @@ export const managers = [
   },
   {
     "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    "name": "SacksonvilleJaguars",
+    "name": "RafasBurnerACC",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Brooklyn", // (optional)
     "bio": "Lorem ipsum...",
