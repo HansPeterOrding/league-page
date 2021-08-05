@@ -1,10 +1,10 @@
 import { get } from 'svelte/store';
 import {leagueData} from '$lib/stores';
 
-export const leagueID = "721125042955554816"; // your league ID
-export const leagueName = "Upsidebowl - Fam and Friends"; // your league name
+export const leagueID = "your_league_id"; // your league ID
+export const leagueName = "your_league_name"; // your league name
 export const dues = 100; // (optional) used in template constitution page
-export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
+export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 
 export const getLeagueData = async (queryLeagueID = leagueID) => {
 	if(get(leagueData)[queryLeagueID]) {
