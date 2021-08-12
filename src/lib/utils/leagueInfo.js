@@ -204,22 +204,22 @@ export const managers = [
     "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "LDRams",
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    "location": "Brooklyn",
-    "bio": "Lorem ipsum...",
+    "location": "Landau in der Pfalz",
+    "bio": "<br><b>Das mache ich beruflich, wenn ich nicht gerade mit FF beschäftigt bin:</b><br>Unterrichten<br><br><b>Das mache ich in meiner Freizeit:</b><br>Tiefe Löcher und Gräben auf Spielplätzen ausheben.<br><br><b>Außerdem spiele ich noch andere Ligen:</b><br>Die legendäre Down, Set, Dynasty und ein paar andere.<br><br><b>Ich mag (Musik, Podcasts, Filme, Serien, ...):</b><br>meine Ruhe, vor allem nachts.<br><br><b>Ich koche … / ich esse am liebsten …:</b><br>Obst und Gemüse<br><br><b>Wenn ich mir einen Drink gönne …:</b><br>Vanilla Coke eiskalt<br><br><b>Funfact über mich:<b><br>Bis ich 14 war, hatte ich nur Joggingshosen an.",
     "photo": "/managers/everyone.png", // done
-    "fantasyStart": 2014, // when did the manager start playing fantasy football
-    "favoriteTeam": "nyj", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+    "fantasyStart": 2017, // when did the manager start playing fantasy football
+    "favoriteTeam": "lar", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
     "rival": {
-      name: "Rival", // Can be anything (usually your rival's name)
-      link: 6, // manager array number within this array, or null to link back to all managers page
-      image: "/managers/everyone.png", // either a specific manager photo or 'everyone' or 'question'
+      name: "Hans Peter Ording <3", // Can be anything (usually your rival's name)
+      link: 9, // manager array number within this array, or null to link back to all managers page
+      image: "/managers/question.png", // either a specific manager photo or 'everyone' or 'question'
     },
-    "favoritePlayer": 1426, // this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+    "favoritePlayer": 947, // this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
     "valuePosition": "WR", // Favorite position (QB, WR, RB, TE, etc.)
-    "rookieOrVets": "Rookies", // 'Rookies' or 'Vets'
-    "philosophy": "Your fantasy team's philosophy",
-    "tradingScale": 10, // 1 - 10
+    "rookieOrVets": "Vets", // 'Rookies' or 'Vets'
+    "philosophy": "Darauf habe ich keine Antwort.",
+    "tradingScale": 7, // 1 - 10
     "preferredContact": "Sleeper", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
   },
   {
