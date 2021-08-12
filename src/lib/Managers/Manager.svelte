@@ -249,7 +249,7 @@
             </Group>
         </div>
 
-        <p class="bio">{viewManager.bio}</p>
+        <p class="bio">{@html viewManager.bio}</p>
 
         <h3>Team Philosophy</h3>
         <p class="philosophy">{viewManager.philosophy}</p>
