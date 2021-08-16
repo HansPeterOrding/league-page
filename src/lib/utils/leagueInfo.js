@@ -91,7 +91,7 @@ export const managers = [
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Kaufungen",
     "bio": "<br><b>Discord:</b> <a href=\"https://discordapp.com/users/6398\" target=\"_blank\">IngeMeysel</a><br><br><b>Twitter:</b> <a href=\"https://twitter.com/derdomenic\" target=\"_blank\">@derdomenic</a><br><br><b>Wer zu mir gehört wie mein Name an der Tür?</b><br>Die beste Frau auf der Welt. <br><br><b>Das mache ich beruflich, wenn ich nicht gerade mit FF beschäftigt bin:</b><br>Wahrscheinlich habe ich noch nie wirklich gearbeitet🙈😂<br><br><b>Das mache ich in meiner Freizeit:</b><br>Vieles. Unter anderem: Zeit mit Freunden verbringen, Gesellschaftsspiele, Sport jeglicher Art, usw. <br><br><b>Außerdem spiele ich noch andere Ligen:</b><br>Zu viele. <br><br><b>Ich mag (Musik, Podcasts, Filme, Serien, ...):</b><br>Kann Allem etwas abgewinnen. <br><br><b>Ich koche … / ich esse am liebsten …:</b><br>Pizza<br><br><b>Wenn ich mir einen Drink gönne …:</b><br>Alles was flüssig ist. <br><br><b>Funfact über mich:<b><br>Das sollen andere beurteilen. ",
-    "photo": "/managers/everyone.png", // done
+    "photo": "/managers/question.jpg", // done
     "fantasyStart": 2017, // when did the manager start playing fantasy football
     "favoriteTeam": "atl", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
@@ -135,7 +135,7 @@ export const managers = [
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Regensburg",
     "bio": "<br><b>Discord:</b> <a href=\"https://discordapp.com/users/1747\" target=\"_blank\">Talca</a><br><br><b>Twitter:</b> <a href=\"https://twitter.com/Talca20\" target=\"_blank\">@Talca20</a><br><br><b>Das mache ich beruflich, wenn ich nicht gerade mit FF beschäftigt bin:</b><br>Studieren<br><br><b>Das mache ich in meiner Freizeit:</b><br>Sport, Familie, Freunde<br><br><b>Außerdem spiele ich noch andere Ligen:</b><br>Zu viele<br><br><b>Ich mag (Musik, Podcasts, Filme, Serien, ...):</b><br>Kann mich für fast alles begeistern<br><br><b>Ich koche … / ich esse am liebsten …:</b><br>Am liebsten 3x am Tag Pizza<br><br><b>Wenn ich mir einen Drink gönne …:</b><br>Bevorzugt Bier. Donst gerne Whisky oder Gin<br><br><b>Funfact über mich:<b><br>Ich habe noch nie Live Football gesehen.",
-    "photo": "/managers/everyone.png", // done
+    "photo": "/managers/question.jpg", // done
     "fantasyStart": 2017, // when did the manager start playing fantasy football
     "favoriteTeam": "hou", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Rebuild", // 'Win Now' or 'Rebuild'
