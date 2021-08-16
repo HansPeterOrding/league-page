@@ -208,7 +208,7 @@ export const managers = [
     "rival": {
       name: "Hans Peter Ording <3", // Can be anything (usually your rival's name)
       link: 9, // manager array number within this array, or null to link back to all managers page
-      image: "/managers/question.jpg", // either a specific manager photo or 'everyone' or 'question'
+      image: "/managers/hporosa.png", // either a specific manager photo or 'everyone' or 'question'
     },
     "favoritePlayer": 947, // this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
     "valuePosition": "WR", // Favorite position (QB, WR, RB, TE, etc.)
@@ -230,7 +230,7 @@ export const managers = [
     "rival": {
       name: "LDRams", // Can be anything (usually your rival's name)
       link: 8, // manager array number within this array, or null to link back to all managers page
-      image: "/managers/question.jpg", // either a specific manager photo or 'everyone' or 'question'
+      image: "/managers/ldrams.png", // either a specific manager photo or 'everyone' or 'question'
     },
     "favoritePlayer": 96, // this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
     "valuePosition": "RB", // Favorite position (QB, WR, RB, TE, etc.)
