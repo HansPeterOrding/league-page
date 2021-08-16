@@ -201,7 +201,7 @@ export const managers = [
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Landau in der Pfalz",
     "bio": "<b>Discord:</b> <a href=\"https://discordapp.com/users/9921\" target=\"_blank\">LDRams</a><br><br><b>Twitter:</b><a href=\"https://twitter.com/LD_Rams\" target=\"_blank\">@LD_Rams</a><br><br><b>Das mache ich beruflich, wenn ich nicht gerade mit FF beschäftigt bin:</b><br>Unterrichten<br><br><b>Das mache ich in meiner Freizeit:</b><br>Tiefe Löcher und Gräben auf Spielplätzen ausheben.<br><br><b>Außerdem spiele ich noch andere Ligen:</b><br>Die legendäre Down, Set, Dynasty und ein paar andere.<br><br><b>Ich mag (Musik, Podcasts, Filme, Serien, ...):</b><br>meine Ruhe, vor allem nachts.<br><br><b>Ich koche … / ich esse am liebsten …:</b><br>Obst und Gemüse<br><br><b>Wenn ich mir einen Drink gönne …:</b><br>Vanilla Coke eiskalt<br><br><b>Funfact über mich:<b><br>Bis ich 14 war, hatte ich nur Joggingshosen an.",
-    "photo": "/managers/question.jpg", // done
+    "photo": "/managers/ldrams.png", // done
     "fantasyStart": 2017, // when did the manager start playing fantasy football
     "favoriteTeam": "lar", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
@@ -223,7 +223,7 @@ export const managers = [
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Eifel",
     "bio": "<br><b>Discord:</b> <a href=\"https://discordapp.com/users/5397\" target=\"_blank\">HansPeterOrding</a><br><br><b>Twitter:</b> <a href=\"https://twitter.com/splatter2507\" target=\"_blank\">@splatter2507</a><br><br><b>Wer zu mir gehört wie mein Name an der Tür?</b><br>Frau und Kind (6)<br><br><b>Das mache ich beruflich, wenn ich nicht gerade mit FF beschäftigt bin:</b><br>Softwarearchitekt<br><br><b>Das mache ich in meiner Freizeit:</b><br>Viel zu viel auf Fantasy Nebenschauplätzen, Familie, Freunde, wandern, Badminton, lesen, Rätseln, und jede Menge mehr.<br><br><b>Außerdem spiele ich noch andere Ligen:</b><br>2 x dynasty (davon 1 mit idp), 2 x redraft (bis jetzt), zig bestball<br><br><b>Ich mag (Musik, Podcasts, Filme, Serien, ...):</b><br>Deutscher (alter) Hip-Hop, (Hard-)Rock, Metal, Jazz, und einiges mehr.<br>Die üblichen Fantasy Podcasts, Lage der Nation, das Interview, sternengeschichten, a podcast of unnecessary detail, numberphile podcast, das gewünschteste Wunschkind<br>Pulp Fiction, fightclub, Big Lebowski<br>True detective, tatortreiniger, Sherlock, IT-Crowd<br><br><b>Ich koche … / ich esse am liebsten …:</b><br>Gerne aufwändig, aber leider fehlt mir die Zeit.<br><br><b>Wenn ich mir einen Drink gönne …:</b><br>Im Winter Rotwein, im Sommer Bier, immer Whiskey<br><br><b>Funfact über mich:<b><br>Ich habe mal in der zweiten Liga Tischfussball gespielt",
-    "photo": "/managers/everyone.png", // done
+    "photo": "/managers/hporosa.png", // done
     "fantasyStart": 2020, // when did the manager start playing fantasy football
     "favoriteTeam": "gb", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
